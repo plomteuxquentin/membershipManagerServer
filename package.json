@@ -1,0 +1,22 @@
+{
+  "name": "membership-manager-server",
+  "version": "0.1.0",
+  "description": "server for membership manager app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plomteuxquentin/membershipManagerServer.git"
+  },
+  "author": "plomteuxquentin@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plomteuxquentin/membershipManagerServer/issues"
+  },
+  "homepage": "https://github.com/plomteuxquentin/membershipManagerServer#readme",
+  "dependencies": {
+    "hapi": "^13.4.1"
+  }
+}
